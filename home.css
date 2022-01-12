@@ -1,0 +1,23 @@
+body {
+    background: green;
+}
+
+.section {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    text-transform:uppercase;
+    margin: 40px auto;
+    text-decoration: underline;
+}
+
+.main {
+    font-size: 20px;
+    text-align:justify;
+    border: 5px white solid;
+    padding: auto;
+}
+
+table, td, tr, th {
+    border: white 2px solid;
+}
